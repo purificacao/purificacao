@@ -9,5 +9,8 @@ My social medias:
  <a href="https://www.linkedin.com/in/purificacaocientistadedados/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+ <a href="http://lattes.cnpq.br/7787694704554443/">
+ <img src="https://img.shields.io/badge/Lattes-green?style=for-the-badge&logo=lattes&logoColor=white" alt="Lattes Badge"/>
+</a>
 </div>
 
