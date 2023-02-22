@@ -1,7 +1,7 @@
 ### Hi y'all! 👋
 
 - 🔭 I’m currently working at SENAI CIMATEC, building state-of-the-art deep learning algorithmns to solve many problems in Computer Vision, Natural Language Processing, Time Series and so on.
-- 🌱 I'm really passionate about learning. I'm always learning new tools and techniques useful in the data analysis world! I love deep learning, but Computer Vision has the key to my heart. I have worked in a few real life Computer Vision problems and the more I learn the more I fall in love for this little field in the great deep learning sea! I can also properly handle NLP and Time Series tasks, having provided effective solutions for the industry in both fields. I can assure you that my simple Github repository do not reflect my true knowledge, since all the projects I have worked for are confidential and I was never allowed to upload parts of them in here. 
+- 🌱 I'm really passionate about learning. I'm always learning new tools and techniques useful in the data analysis world! I love deep learning, but Computer Vision has the key to my heart. I have worked in a few real life Computer Vision problems and the more I learn the more I fall in love for this little field in the great deep learning sea! I can also properly handle NLP and Time Series tasks, having provided effective solutions for the industry in both fields. I can assure you that my simple Github repository do not reflect my true knowledge, since all the projects I have worked for are confidential and I was never allowed to upload any parts of them in here. 
 
 ### :hammer_and_wrench: Languages and Tools:
 
